@@ -1,6 +1,6 @@
 ## Description
 
-This simple Xcode project demonstrates an issue with SwiftUI where a View animation triggers deinit in a thread
+This simple Xcode project demonstrates an issue with SwiftUI where a View animation triggers deinit in a thread. This issue has been reported as FB9687147 to Apple.
 
 ![](video.mov)
 
